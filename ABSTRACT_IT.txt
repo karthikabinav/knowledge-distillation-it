@@ -1,0 +1,14 @@
+Italian translation of Distilling the Knowledge in a Neural Network abstract:
+
+1. "Un modo molto semplice per migliorare le prestazioni di praticamente qualsiasi algoritmo di apprendimento automatico è addestrare molti diversi modelli sugli stessi dati e poi mediare le loro previsioni."
+
+2. "Sfortunatamente, fare previsioni usando un intero insieme di modelli è ingombrante e può risultare troppo costoso dal punto di vista computazionale per consentire il rilascio a un grande numero di utenti, soprattutto se i singoli modelli sono grandi reti neurali."
+
+3. "Caruana e i suoi collaboratori hanno dimostrato che è possibile comprimere la conoscenza contenuta in un insieme in un unico modello, il quale è molto più facile da distribuire, e noi sviluppiamo ulteriormente questo approccio usando una diversa tecnica di compressione."
+
+4. "Otteniamo risultati sorprendenti su MNIST e mostriamo che possiamo migliorare significativamente il modello acustico di un sistema commerciale ampiamente utilizzato mediante la distillazione della conoscenza contenuta in un insieme di modelli in un singolo modello."
+
+5. "Introduciamo inoltre un nuovo tipo di insieme composto da uno o più modelli completi e da molti modelli specialisti che imparano a distinguere classi a grana fine che i modelli completi confondono."
+
+6. "A differenza di una miscela di esperti, questi modelli specialistici possono essere addestrati rapidamente e in parallelo."
+
